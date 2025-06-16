@@ -30,7 +30,7 @@ I'm a fast learner, especially when it comes to real-world projects and new fram
 ---
 
 ## 🌐 Connect with me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ibrahem-arafa-964374232" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
