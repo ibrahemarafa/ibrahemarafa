@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, Welcome to Ibrahim Arafa's profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Developer;AI+Enthusiast;CS+Student+at+Tanta+University&center=true&width=500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Developer;CS+Student+at+Tanta+University&center=true&width=500" alt="Typing SVG" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ibrahemarafa&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahemarafa" />
 </p>
 
-<p align="center">
+<p align="left">
   <b>@ibrahemarafa</b>
 </p>
 
@@ -50,10 +53,6 @@ I'm a fast learner, especially when it comes to real-world projects and new fram
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahemarafa&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 
 ### 📊 GitHub Stats:
